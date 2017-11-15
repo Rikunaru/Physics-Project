@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/UNI SRH GAMEDEV/Physik/Flippy Knife/Assets/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
